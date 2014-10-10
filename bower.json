@@ -5,7 +5,7 @@
     "Jeffrey Baumes <jeff.baumes@kitware.com>"
   ],
   "description": "Multidimensional data visualization",
-  "main": "space-map.js",
+  "main": "spaceMap.js",
   "keywords": [
     "visualization",
     "tangelo"
