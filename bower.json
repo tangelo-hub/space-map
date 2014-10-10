@@ -1,0 +1,22 @@
+{
+  "name": "tangelo-space-map",
+  "version": "0.1.0",
+  "authors": [
+    "Jeffrey Baumes <jeff.baumes@kitware.com>"
+  ],
+  "description": "Multidimensional data visualization",
+  "main": "space-map.js",
+  "keywords": [
+    "visualization",
+    "tangelo"
+  ],
+  "license": "Apache v2",
+  "homepage": "https://github.com/tangelo-hub/space-map",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
